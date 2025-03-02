@@ -79,7 +79,7 @@ If you have a PNACH file for AC04 already, just copy the lines inside the blockq
 
 ## Notes
 
-- Disabling the dynamic shadow in PCSX2-qt is _completely optional_. While t might not properly render at higher internal resolutions at least will not cover the entire aircraft like it does when emulating the game using 1.6.0.
+- Disabling the dynamic shadow in PCSX2-qt is _completely optional_. While it might not properly render at higher internal resolutions at least will not cover the entire aircraft like it does when emulating the game using 1.6.0.
 
 - Using the 1.6.0 version of the PNACH files will also remove the blur effect in the **STONEHENGE OFFENSIVE** mission, caused every time the S.T.N turrets fire their railgun.
 

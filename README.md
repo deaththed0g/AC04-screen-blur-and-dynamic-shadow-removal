@@ -47,7 +47,7 @@ If everything was done correctly you should be seeing my cheats in the list.
 
 Click on the small square next to the cheat entries under the **NAME** category to activate it. A tick means that the cheat is activated.
 
-Close the window then run the game. The cheat(s) will take effect as soon the game is boot up.
+Close the window then run the game. The cheat(s) will take effect as soon the game boots up.
 
 ***
 
@@ -71,7 +71,7 @@ Save the **A32F7CD0.txt** and rename it to **A32F7CD0.pnach**.
 
 Open the emulator, go to the menu bar and click ON **SYSTEM** then click on **ENABLE CHEATS**.
 
-Run the game. The cheat(s) will take effect as soon the game is boot up.
+Run the game. The cheat(s) will take effect as soon the game boots up.
 
 ***
 

@@ -79,7 +79,7 @@ If you have a PNACH file for AC04 already, just copy the lines inside the blockq
 
 ## Notes
 
-- Using the 1.6.0 version of the PNACH files will also remove the blur effect in the **STONEHENGE OFFENSIVE** mission, caused every time the S.T.N turrets fire their railgun.
+- Using the 1.6.0 version of the PNACH files will also remove the blur effect in the **STONEHENGE OFFENSIVE** mission, caused every time the S.T.N turrets fire their railguns.
 
 - To fully restore the disabled effects, a game restart will be required after disabling the cheats. For PCSX2 1.6.0, you'll need to remove the lines copied from this article from the PNACH file.
 

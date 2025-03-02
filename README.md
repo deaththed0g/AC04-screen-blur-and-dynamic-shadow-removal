@@ -22,7 +22,7 @@ Go to your PCSX2's root directory then open the **CHEATS** folder. There, create
 
 ***
 
-#### If using PCSX2-qt (aka 2.0):
+### If using PCSX2-qt (aka 2.0):
 
 Copy the following text lines inside the blockquote and paste them in the **A32F7CD0.txt** file we just created:
 
@@ -51,7 +51,7 @@ Close the window then run the game. The cheat(s) will take effect as soon the ga
 
 ***
 
-#### If using PCSX2 1.6.0:
+### If using PCSX2 1.6.0:
 
 Copy the following text lines inside the blockquote and paste them in the **A32F7CD0.txt** file we just created:
 

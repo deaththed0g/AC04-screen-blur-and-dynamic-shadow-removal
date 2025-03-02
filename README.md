@@ -1,8 +1,8 @@
-# Ace Combat 04: Shattered Skies - Screen blur removal PNACH cheats
+# Ace Combat 04: Shattered Skies - Screen blur and dynamic shadow removal
 
 ## About
 
-Cheats for PCSX2-qt and 1.6.0 that will disable the screen blur effect that is applied to some cutscenes and missions.
+Cheats for PCSX2-qt and 1.6.0 that will disable the screen blur effect that is applied to some cutscenes and missions as well the dynamic shadow cast on the aircraft's surface.
 
 The reason for removal is that PCSX2 doesn't yet correctly render the effect causing the issue known as "ghosting", which becomes more prominent as the user plays the game using higher internal resolutions.
 
@@ -10,7 +10,7 @@ The reason for removal is that PCSX2 doesn't yet correctly render the effect cau
 
 _The screenshot above was taken while the game was rendering at 12x its original internal resolution._
 
-Besides removing the screen blur effect the PNACH files will also provide an option to remove the shadow that gets cast on the Player's aircraft if using PCSX2-qt while PCSX2 1.6.0 will remove both the screen blur effect and the shadow at the same time on activation.
+As for dynamic shadows, if using PCSX2 1.6.0 they will be completely removed while in PCSX2-qt they can be optionally toggled off.
 
 At the moment of writing this section, latest nightly builds of PCSX2-qt [have greatly improved the emulation of the screen blur effect](https://www.moddb.com/games/ace-combat-04/news/ghosting-issue-almost-fixed-in-latest-pcsx2-qt-nightly-builds) although there are still some small visual artifacts visible when using the new graphic options.
 
@@ -79,13 +79,9 @@ If you have a PNACH file for AC04 already, just copy the lines inside the blockq
 
 ## Notes
 
-- Disabling the dynamic shadow in PCSX2-qt is _completely optional_. While it might not properly render at higher internal resolutions at least will not cover the entire aircraft like it does when emulating the game using 1.6.0.
-
 - Using the 1.6.0 version of the PNACH files will also remove the blur effect in the **STONEHENGE OFFENSIVE** mission, caused every time the S.T.N turrets fire their railgun.
 
-- The PNACH file for 1.6.0 will also completely remove the dynamic shadows that causes the **"black plane"** issue.
-
-- To fully restore the disabled effects, a game restart will be required after disabling the cheats. For PCSX2 1.6.0, you'll need to remove the lines you copied from this article from the PNACH file.
+- To fully restore the disabled effects, a game restart will be required after disabling the cheats. For PCSX2 1.6.0, you'll need to remove the lines copied from this article from the PNACH file.
 
 ## Special thanks
 
